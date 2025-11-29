@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-  Note Zipper provides you one safe place for all your notes.
+  Note Zipper provides you one safe place for all your notes with user authentication for their notes.
 </td>
 </tr>
 </table>
