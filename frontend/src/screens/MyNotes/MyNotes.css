@@ -1,0 +1,6 @@
+.accordion-button {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
